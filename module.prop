@@ -1,7 +1,6 @@
-id=template
-name=Template Module
+id=org.justinas.remove_askey_tr
+name=Remove askey_tr
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-template=3
+author=justinas
+description=Removes shady askey_tr binary
